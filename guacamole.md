@@ -2,5 +2,5 @@
 	- Avocado
 	- Lemon
 	- Salt
-	- Lime
+	- Lemon
 # Instructions
